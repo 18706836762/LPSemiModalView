@@ -2,6 +2,17 @@
 
 modal a view in semi window with CATransform 3D transformed efftect
 
+# Usage
+
+```swift
+// `In your viewController`
+LPSemiModalView *mv = [[LPSemiModalView alloc] initWithSize:CGSizeMake(self.view.frame.size.width, 300) andBaseViewController:self];
+// `activate simply`
+[mv open];
+// `dismiss simply`
+[mv close];
+```
+
 # Install
 
 - use cocoapods
