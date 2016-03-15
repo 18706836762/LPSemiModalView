@@ -11,6 +11,8 @@ LPSemiModalView *mv = [[LPSemiModalView alloc] initWithSize:CGSizeMake(self.view
 [mv open];
 // `dismiss simply`
 [mv close];
+// custom your view in contentView with whatever you want
+[mv.contentView addSubView:yourView];
 ```
 
 # Install
