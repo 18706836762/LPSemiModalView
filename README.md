@@ -2,6 +2,10 @@
 
 modal a view in semi window with CATransform 3D transformed efftect
 
+# Screenshot
+
+<img src="screenshot.gif" width="320">
+
 # Usage
 
 ```swift
@@ -30,10 +34,6 @@ pod 'LPSemiModalView', '~> 0.0.1'
 ```swift
 just download lib folder and add into your project
 ```
-
-# Screenshot
-
-<img src="screenshot.gif" width="320">
 
 # Release notes
 
