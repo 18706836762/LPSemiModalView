@@ -24,7 +24,7 @@ mv.semiModalViewWillCloseBlock = ^{};
 mv.semiModalViewDidCloseBlock = ^{};
 ```
 
-# Install
+# Installation
 
 - use cocoapods
 ```swift
